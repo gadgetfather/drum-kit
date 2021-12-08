@@ -26,3 +26,8 @@ body,html{
     color: wheat;
     transition: all 0.07s ease;
 }
+.playing{
+    transform: scale(1.1);
+    border-color: bisque;
+    box-shadow: 0 0 10px red;
+}
